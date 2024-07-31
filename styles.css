@@ -1,0 +1,105 @@
+                  
+* { 
+    margin: 0;
+	padding: 0;
+}
+.logo{
+	  font-family: Edwardian Script ITC;
+	  font-size: 60px;
+	  text-align: center;
+	  justify-content: center;
+	  
+}	
+                    
+body{ 
+    margin-top:10px;
+	padding: 0px;
+    background: pink;
+	font-family: "My soul", cursive;
+	align-items: end;
+	justify-content: space-evenly;
+	gap: 0px;
+	display: block; 
+}
+a {   
+   font-family:  Edwardian Script ITC;
+   font-size: 20px;
+   text-align: center;
+   margin-left: 370px;
+   margin-right: 300px;
+   padding: 300px;
+   line-height: 0.1;
+   align-items: center;
+   justify-content: center;
+}
+
+.container{
+	    margin: 0px;
+		padding: 0px;
+	    width: 170px;
+		height: 200px;
+		/*background: #000;*/
+		border-radius: 20px;
+		background-color: white;
+		align-self: center;
+
+}
+.box1{ 
+     margin: 0px;
+	 padding: 0px;
+	 /*display: flex;*/
+}    
+
+img {
+	margin: 0px;
+	padding-bottom: 20px;
+	width: 170px; 
+	height: 130px;
+	border-radius:20px;
+}
+	
+h2   { 
+	margin-left: 10px;
+	margin-top: 0px;
+	padding :0px;
+	line-height: 1.0;
+	font-size: 12px;
+	display: flex;
+}
+p {
+	margin-left: 10px;
+	margin-top: 0px;
+	padding : 0px;
+	font-size: 15px;
+	float: left;
+	font-family:  Edwardian Script ITC
+}	
+	
+.box  {
+	   margin-left: 300px;
+	   margin-right: 300px;
+	   margin-top: 20px;
+	   margin-bottom: 10px;
+	   padding: 10px;
+	   display: flex;
+	   align-items: center;
+	   justify-content: space-evenly; 
+	   
+}	
+span {
+	  max-width: 10px;
+	  height: 15px;
+	  text-align: center;
+	  align-items: center;
+	  justify-content: center;
+	  background-color: pink;
+	  border-radius: 60px;
+	  margin-right: 5px;
+	  margin-top: 0px;
+	  padding-right: 0.2rem;
+	  font-size: 7px;
+	  float: right;
+	 
+  
+	   
+	  
